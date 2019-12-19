@@ -1,0 +1,8 @@
+---
+applications:
+- name: composer-rest-server-ibm
+  memory: 256M
+  instances: 1
+  docker:
+    image: registry.hub.docker.com/valdergallo/composer-rest-server
+    username: valdergallo
