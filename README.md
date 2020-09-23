@@ -1,9 +1,9 @@
-# Composer-rest-server 0.20.8
-composer-reset-server 0.20.8 to be used with IBM blockchain
+# Composer-rest-server 0.20.9
+composer-reset-server 0.20.9 to be used with IBM blockchain
 
 
 ## To install develop tools
-> npm install -g composer-cli@0.20.8 composer-rest-server@0.20.8 generator-hyperledger-composer@0.20.8 composer-playground@0.20.8
+> npm install -g composer-cli@0.20.9 composer-rest-server@0.20.9 generator-hyperledger-composer@0.20.9 composer-playground@0.20.9
 
 # Deploy using IBM Cloud Foundry CLI
 
