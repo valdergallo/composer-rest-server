@@ -1,4 +1,4 @@
-from hyperledger/composer-rest-server:0.20.8
+from hyperledger/composer-rest-server:0.20.9
 
 LABEL maintainer="valdergallo@gmail.com"
 LABEL description="Create composer-rest-server with Couldant"
